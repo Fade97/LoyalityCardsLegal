@@ -81,7 +81,7 @@
     "name": "Hornbach",
     "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQheQv-a2ncP75yhq2puWG5uytmrxjlcMXkGg&s",
     "fileType": "png",
-    "backgroundColor": "##F79E1C",
+    "backgroundColor": "#F79E1C",
     "foregroundColor": "#ffffff"
   }
 ]
