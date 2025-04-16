@@ -65,9 +65,23 @@
   },
   {
     "name": "Hagebaumarkt",
-    "icon": "https://www.hagebau.com/content/unternehmen/presse/artikelbilder/2022/1_2022_06_27_hagebau_logo_tf_rgb-vorschaubild_res_371.jpg",
-    "fileType": "jpg",
+    "icon": "https://www.hagebau.com/content/logos/hagebau-monogramm_371x371px_res_371.png",
+    "fileType": "png",
     "backgroundColor": "#079446",
+    "foregroundColor": "#ffffff"
+  },
+  {
+    "name": "Globus",
+    "icon": "https://www.globus-baumarkt.de/bundles/baumarkttheme/assets/logo/Globus_Baumarkt_Logo_digital_RGB.webp?174478672623596",
+    "fileType": "png",
+    "backgroundColor": "#ffffff",
+    "foregroundColor": "#000000"
+  },
+  {
+    "name": "Hornbach",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQheQv-a2ncP75yhq2puWG5uytmrxjlcMXkGg&s",
+    "fileType": "png",
+    "backgroundColor": "##F79E1C",
     "foregroundColor": "#ffffff"
   }
 ]
