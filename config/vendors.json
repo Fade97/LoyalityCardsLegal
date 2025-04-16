@@ -1,0 +1,66 @@
+[
+  { "name": "Generic", "icon": "https://placehold.co/400", "fileType": "png" },
+  {
+    "name": "Payback",
+    "icon": "https://play-lh.googleusercontent.com/WiQDNH4bhP5D8MbOcUu8NKpOISLMTI53XZ_CDF521SAimMeToHzlMK3OmrkeIf81QWE=s96-rw",
+    "fileType": "png",
+    "backgroundColor": "#003EB0",
+    "foregroundColor": "#FFFFFF"
+  },
+  {
+    "name": "DeutschlandCard",
+    "icon": "https://play-lh.googleusercontent.com/sY9adFgZFfclEqzbqP1Wb--QTFmFU9ZQYO-upxMa-FqJjI1z-rAxxQXrNeTui8fvDQ=w480-h960-rw",
+    "fileType": "png",
+    "backgroundColor": "#572370",
+    "foregroundColor": "#FFFFFF"
+  },
+  {
+    "name": "IKEA",
+    "icon": "https://www.ikea.com/global/assets/logos/brand/ikea.svg",
+    "fileType": "svg",
+    "backgroundColor": "#FFDB00",
+    "foregroundColor": "#000000"
+  },
+  {
+    "name": "REWE",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/0/08/Rewe_Logo.png",
+    "fileType": "png",
+    "backgroundColor": "#D22027",
+    "foregroundColor": "#FFFFFF"
+  },
+  {
+    "name": "ADAC",
+    "icon": "https://www.adac.de/assets/img/logos/adac-logo.svg",
+    "fileType": "svg",
+    "backgroundColor": "#FFCF00",
+    "foregroundColor": "#000000"
+  },
+  {
+    "name": "Action",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/4/45/Action_Nederland_Logo_2020.svg",
+    "fileType": "svg",
+    "backgroundColor": "#ffffff",
+    "foregroundColor": "#000000"
+  },
+  {
+    "name": "Kaufland",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/4/44/Kaufland_201x_logo.svg",
+    "fileType": "svg",
+    "backgroundColor": "#E10915",
+    "foregroundColor": "#FFFFFF"
+  },
+  {
+    "name": "Toom",
+    "icon": "https://play-lh.googleusercontent.com/uNfBKyvGLiRqpKcl8svJeZSNdGwi5n4hEXMBeUUyBbzN0DOROHhJS_Ob7E-J1UFPBGk",
+    "fileType": "png",
+    "backgroundColor": "#ffffff",
+    "foregroundColor": "#000000"
+  },
+  {
+    "name": "MediaMarkt",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Media_Markt_logo.svg",
+    "fileType": "svg",
+    "backgroundColor": "#ffffff",
+    "foregroundColor": "#000000"
+  }
+]
