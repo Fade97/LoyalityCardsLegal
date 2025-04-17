@@ -83,5 +83,19 @@
     "fileType": "png",
     "backgroundColor": "#F79E1C",
     "foregroundColor": "#ffffff"
+  },
+  {
+    "name": "Futterhaus",
+    "icon": "https://www.futterhaus.de/icon.svg",
+    "fileType": "svg",
+    "backgroundColor": "#E30613",
+    "foregroundColor": "#ffffff"
+  }
+  {
+    "name": "Fressnapf",
+    "icon": "https://play-lh.googleusercontent.com/MF1NG0D7Nf4bouRyiz1xGvx2UFCC8K6JLiA_oaGcr0o-6Y78SdPc4kK_fecoqzz4vks=w240-h480-rw",
+    "fileType": "png",
+    "backgroundColor": "#196429",
+    "foregroundColor": "#ffffff"
   }
 ]
