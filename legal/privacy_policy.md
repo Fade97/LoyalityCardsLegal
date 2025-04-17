@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last Updated:** April 14, 2025
+**Last Updated:** April 17, 2025
 
 ## Introduction
 
@@ -11,7 +11,8 @@ Welcome to LoyalityCards ("we," "our," or "app"). We respect your privacy and ar
 LoyalityCards is an application that:
 - Stores loyalty card information locally on your device
 - Uses your camera to scan barcodes and EAN codes
-- Does not transmit your data to external servers
+- Loads vendor configurations from our servers to stay up-to-date
+- Does not transmit your personal data to external servers
 - Does not collect personal information beyond what is necessary for app functionality
 
 ## Information We Collect
@@ -39,10 +40,18 @@ All information collected is used exclusively to:
 
 ### Local Storage
 
-All data is stored exclusively on your device in a local database. We do not:
-- Upload your data to any servers
-- Share your data with third parties
-- Access your data remotely
+Your loyalty card data is stored exclusively on your device in a local database. We do not:
+- Upload your loyalty card data to any servers
+- Share your personal data with third parties
+- Access your loyalty card data remotely
+
+### Network Access
+
+To provide up-to-date vendor information, our app:
+- Periodically downloads vendor configuration data from our servers
+- Only transfers minimal technical data necessary for configuration updates
+- Does not send any of your personal loyalty card data during these updates
+- Uses secure HTTPS connections for all data transfers
 
 ### Unencrypted Storage
 
@@ -78,9 +87,10 @@ play@fabian-duerkop.de
 ## Additional Information for EU Residents
 
 Under the GDPR, we confirm:
-- The data controller is you, the user, since all data is stored locally on your device.
-- No data is transferred outside your device.
-- No automated decision-making or profiling is performed.
+- The data controller is you, the user, for all loyalty card data stored locally on your device
+- Your personal loyalty card data is not transferred outside your device
+- Only necessary vendor configuration data is transferred from our servers
+- No automated decision-making or profiling is performed
 
 ## Additional Information for California Residents
 
